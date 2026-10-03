@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of nomiscz/flarum-ext-auth-steam.** Not for installation: use [Packagist](https://packagist.org/packages/nomiscz/flarum-ext-auth-steam) or the [upstream repository](https://github.com/NomisCZ/flarum-ext-auth-steam).
 
-**0** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/nomiscz-flarum-ext-auth-steam/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.0.0`
+**13** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/nomiscz-flarum-ext-auth-steam/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.8.0` | 2019-04-17 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/nomiscz-flarum-ext-auth-steam/tree/archive/v0.1.0-beta.8.0) |
+| `v0.1.1` | 2019-06-15 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/nomiscz-flarum-ext-auth-steam/tree/archive/v0.1.1) |
+| `v0.1.2` | 2019-07-20 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/nomiscz-flarum-ext-auth-steam/tree/archive/v0.1.2) |
+| `v0.1.3` | 2019-12-27 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/nomiscz-flarum-ext-auth-steam/tree/archive/v0.1.3) |
+| `v0.1.4` | 2020-01-10 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/nomiscz-flarum-ext-auth-steam/tree/archive/v0.1.4) |
+| `v0.1.5` | 2020-01-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/nomiscz-flarum-ext-auth-steam/tree/archive/v0.1.5) |
+| `v0.1.6` | 2020-02-02 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/nomiscz-flarum-ext-auth-steam/tree/archive/v0.1.6) |
+| `v0.1.7` | 2020-04-16 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/nomiscz-flarum-ext-auth-steam/tree/archive/v0.1.7) |
+| `v0.2.0` | 2020-10-21 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/nomiscz-flarum-ext-auth-steam/tree/archive/v0.2.0) |
+| `v0.2.1` | 2021-02-04 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/nomiscz-flarum-ext-auth-steam/tree/archive/v0.2.1) |
+
+[View all 13 versions](https://github.com/flarchive/nomiscz-flarum-ext-auth-steam/tags)
 
 Catalog entry: [packages/nomiscz-flarum-ext-auth-steam.json](https://github.com/flarchive/archive-index/blob/main/packages/nomiscz-flarum-ext-auth-steam.json)
 
